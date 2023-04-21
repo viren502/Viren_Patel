@@ -1,3 +1,8 @@
+body {
+    background-color: rgb(247, 243, 243);
+    color: black;
+    padding: 30px;
+}
 
 * {
     max-width: 700px;
@@ -73,13 +78,7 @@
     color: black;
     text-decoration: none;
   }
-
-  body {
-    background-color: rgb(247, 243, 243);
-    color: black;
-    padding: 30px;
-}
-  
+ 
   @media only screen and (max-width: 430px) {
     .left,
     .right {
