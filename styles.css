@@ -2,6 +2,10 @@
     color: rgb(226, 40, 40)
 }
 
+.blue {
+color: rgb(22, 22, 219);
+}
+
 body {
     background-color: rgb(46, 45, 45);
     color: white;
